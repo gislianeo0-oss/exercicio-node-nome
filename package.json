@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gislianeo0-oss/exercicio-node-nome/issues"
   },
-  "homepage": "https://github.com/gislianeo0-oss/exercicio-node-nome#readme"
+  "homepage": "https://github.com/gislianeo0-oss/exercicio-node-nome#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
