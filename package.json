@@ -1,12 +1,20 @@
 {
-  "name": "exercicio-node-nome",
+  "name": "exercicio-node-gisliane",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gislianeo0-oss/exercicio-node-nome.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gislianeo0-oss/exercicio-node-nome/issues"
+  },
+  "homepage": "https://github.com/gislianeo0-oss/exercicio-node-nome#readme"
 }
