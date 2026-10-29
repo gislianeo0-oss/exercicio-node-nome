@@ -19,3 +19,5 @@ const bolo = [
     Disponibilidade: true,
   },
 ];
+
+export default bolo;
